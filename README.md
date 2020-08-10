@@ -7,7 +7,7 @@
 
 # GCRP Bugtracker
 
-Wir sammeln hier Fehlermeldungen zum **GTA Server** und allen anderen **Plattformen** von GCRP.
+Wir sammeln hier Fehlermeldungen zum **alt:V Server** und allen anderen **Plattformen** von GCRP.
 
 ## Fehlermeldungen einsenden
 
