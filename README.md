@@ -16,7 +16,7 @@ Wir sammeln hier Fehlermeldungen zum **GTA Server** und allen anderen **Plattfor
 ## Was sind keine Fehlermeldungen?
 
 - Vorschläge für neue Features sollten über das [Vorschlag-Feature im Forum](https://forum.gcrp.cc/suggest/) eingereicht werden.
-- Bei Fragen sollte ein Ticket über das [Ticketsystem im Forum](https://portal.alternate-life.de/tickets) geöffnet werden.
+- Bei Fragen sollte ein Ticket über das [Ticketsystem im Forum](https://forum.gcrp.cc/ticketsystem/) geöffnet werden.
 - Für den Austausch mit der Community haben wir einen öffentlichen Discord Server bereitgestellt. Die Links dazu findest du unten.
 
 ## Sicherheit
