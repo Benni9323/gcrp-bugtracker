@@ -1,38 +1,39 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: 'In-Game Fehler: Allgemein'
+about: Meldungen zu allgemeinen Fehlern in RAGE MP
 title: ''
-labels: ''
+labels: bug, ragemp
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+### Beschreibe den Fehler
+[Eine klare und nachvollziehbare Beschreibung des Fehlers]
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+### Reproduktion des Fehlers
+Schritte, um den Fehler zu reproduzieren:
+1. ...
+2. ...
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+### Erwartetes Verhalten
+[Eine Beschreibung des Verhaltens, welches eigentlich auftreten sollte]
 
-**Additional context**
-Add any other context about the problem here.
+
+### Weitere Informationen
+[Füge weitere Informationen an, welche uns bei der Fehlersuche behilflich sein können]
+
+
+### Name der/des beteiligten Charakter(e)
+[Name deines Charakters oder falls mehrere dabei waren, auch deren Namen]
+
+
+### System
+ - Betriebssystem: [z.B. Windows 10]
+ - GTA Version: [Steam / Socialclub]
+
+
+### Screenshots
+[Wenn nötig, füge Screenshots an um das Problem zu erklären]
